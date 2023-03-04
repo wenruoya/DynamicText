@@ -1,0 +1,6 @@
+﻿  源.cpp
+E:\Study\test\C\DynamicText\DT\DT\源.cpp(20,17): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+E:\Study\test\C\DynamicText\DT\DT\源.cpp(21,11): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+E:\Study\test\C\DynamicText\DT\DT\源.cpp(22,11): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+E:\Study\test\C\DynamicText\DT\DT\源.cpp(23,10): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+  DT.vcxproj -> E:\Study\test\C\DynamicText\DT\x64\Debug\DT.exe
